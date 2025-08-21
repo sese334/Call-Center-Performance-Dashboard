@@ -80,5 +80,9 @@ Interactive Features – including slicers, bookmarks, and dynamic text for a sm
 
 ## 5. Screenshots / Demos
 Show what the dashboard looks like. 
+(https://github.com/sese334/Call-Center-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png
+https://github.com/sese334/Call-Center-Performance-Dashboard/blob/main/Snapshot%20%202%20.png.png
+https://github.com/sese334/Call-Center-Performance-Dashboard/blob/main/Snapshot%203.png.png)
+
 
 ---
