@@ -1,4 +1,4 @@
-# 📊 Maxitel Call Center Performance Dashboards  
+# 📊 Maxitel Call Center Performance Report 
 
 This project showcases the use of Power BI to transform raw call center data into fully interactive dashboards that drive insights across operational, team, and executive levels.  
 
